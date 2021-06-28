@@ -5,10 +5,10 @@
 پروکسی۳:https://t.me/proxy?server=abea5542f61f37f46.awsglobalaccelerator.com&port=7777&secret=dd777777AAAAAAAABBBBBBBBBBBBBB0000
 پروکسی۴:https://t.me/proxy?server=www.iran-host.cool&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA
 پروکسی۵:https://t.me/proxy?server=144.76.4.28&port=88&secret=ee793887ec4b677a463dbba49273de9212646c2e676f6f676c652e636f6d
-پروکسی۶:https://t.me/proxy?server=65.21.180.200&port=443&secret=EE00000000000000000000000000000000646c2e676f6f676c652e636f6dپروکسی
+پروکسی۶:https://t.me/proxy?server=65.21.180.200&port=443&secret=EE00000000000000000000000000000000646c2e676f6f676c652e636f6d
 پروکسی۷:https://t.me/proxy?server=194.5.192.188&port=7070&secret=7v____8yQuCqgPoSAzPu7u5veC5hYy51aw==
 پروکسی۸:https://t.me/proxy?server=194.5.193.231&port=9025&secret=7qqqqu7qqiIyh2qnq83viRlwbGF5Lmdvb2dsZS5jb20=
-پروکسی۹
+پروکسی۹:https://t.me/proxy?server=176.9.85.119&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 پروکسی۱۰
 پروکسی۱۱
 پروکسی۱۲
